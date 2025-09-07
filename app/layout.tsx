@@ -5,7 +5,7 @@ import Head from "next/head";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Ayush Mehrotra | Space Portfolio  ",
+  title: "Ayush Mehrotra | Portfolio  ",
   description:
     "This is my portfolio built in nextjs with typescript and used three.js for 3d elements",
 };
